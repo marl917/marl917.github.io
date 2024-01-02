@@ -1,0 +1,8 @@
+@inproceedings{careil2022unifying,
+  title={Unifying conditional and unconditional semantic image synthesis with OCO-GAN},
+  author={Careil, Marl{\`e}ne and Lathuili{\`e}re, St{\'e}phane and Couprie, Camille and Verbeek, Jakob},
+  booktitle={ECCV Workshop on Advances in Image Manipulation},
+  pages={239--255},
+  year={2022},
+  organization={Springer}
+}

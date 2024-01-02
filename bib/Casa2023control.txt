@@ -1,0 +1,6 @@
+@article{casanova2023controllable,
+  title={Controllable Image Generation via Collage Representations},
+  author={Casanova, Arantxa and Careil, Marl{\`e}ne and Romero-Soriano, Adriana and Pal, Christopher J and Verbeek, Jakob and Drozdzal, Michal},
+  journal={arXiv preprint arXiv:2304.13722},
+  year={2023}
+}

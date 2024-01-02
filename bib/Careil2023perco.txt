@@ -1,0 +1,6 @@
+@article{careil2023towards,
+  title={Towards image compression with perfect realism at ultra-low bitrates},
+  author={Careil, Marl{\`e}ne and Muckley, Matthew J and Verbeek, Jakob and Lathuili{\`e}re, St{\'e}phane},
+  journal={arXiv preprint arXiv:2310.10325},
+  year={2023}
+}

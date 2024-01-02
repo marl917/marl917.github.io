@@ -1,0 +1,8 @@
+@InProceedings{Couairon_2023_ICCV,
+    author    = {Couairon, Guillaume and Careil, Marl\`ene and Cord, Matthieu and Lathuili\`ere, St\'ephane and Verbeek, Jakob},
+    title     = {Zero-Shot Spatial Layout Conditioning for Text-to-Image Diffusion Models},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {2174-2183}
+}

@@ -1,0 +1,8 @@
+@article{casanova2021instance,
+  title={Instance-conditioned gan},
+  author={Casanova, Arantxa and Careil, Marlene and Verbeek, Jakob and Drozdzal, Michal and Romero Soriano, Adriana},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={27517--27529},
+  year={2021}
+}
